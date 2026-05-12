@@ -36,7 +36,7 @@ aside{
     padding: 1rem;
     background-color: #eee ;
     color: #333;
-    text-align: center;
+    text-align: auto;
 }
 
 aside img{
@@ -55,6 +55,6 @@ main img{
 footer{
     margin-top: 15px;
     border-top: 1px solid #000;
-    text-align: center;
+    text-align: auto;
 }
 
